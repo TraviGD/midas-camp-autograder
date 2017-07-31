@@ -1,0 +1,10 @@
+#
+# Description:
+# List of users with accounts for the autograder api (no account needed for emailed submissions)
+#
+# Format:
+# Column #1: Student uniqname
+# Column #2: Shared authentication key
+#
+
+user   9245009f41b9af7022c218f3d145d17d

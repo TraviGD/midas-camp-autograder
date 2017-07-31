@@ -1,0 +1,6 @@
+Defaults    env_reset
+Defaults    mail_badpass
+Defaults    secure_path="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin"
+root    ALL=(ALL:ALL) ALL
+Defaults    env_keep += "MATLABPATH PYTHONPATH JULIA_LOAD_PATH"
+autograder    ALL=NOPASSWD: ALL
